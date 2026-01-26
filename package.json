@@ -34,7 +34,7 @@
     "karma-sourcemap-loader": "^0.4.0",
     "karma-tap-reporter": "0.0.6",
     "karma-webpack": "^4.0.2",
-    "mocha": "^5.2.0",
+    "mocha": "^11.7.1",
     "mocha-lcov-reporter": "^1.2.0",
     "nodejs-websocket": "^1.7.1",
     "nyc": "^15.1.0",
